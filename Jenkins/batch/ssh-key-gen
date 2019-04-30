@@ -1,5 +1,0 @@
-#! /bin/sh
-
-mkdir ~/.ssh-key
-cd ~/.ssh-key
-ssh-keygen -t rsa -f id_rsa
